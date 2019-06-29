@@ -16673,6 +16673,11 @@ carbon_footprint_fr_foodges_ingredient:fr:Biscuit au beurre
 # ingredient/fr:biscuit has 391 products in 8 languages @2019-02-23
 # Biscuit (egg, wheat flour, sugar, emulsifier:mono - and diglycerides of fatty acids, leavening agents:diphosphates and sodium carbonate)
 
+<en:Biscuits and cakes
+en:flan case, baked pastry case
+de:Tortenböden
+fr:Fonds de tarte
+
 <en:Biscuits
 en:Gluten-free biscuits
 de:Glutenfreie Kekse
